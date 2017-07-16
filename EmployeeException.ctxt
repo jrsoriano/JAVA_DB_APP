@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=msg
+comment0.target=EmployeeException(java.lang.String)
+comment1.params=msg\ t
+comment1.target=EmployeeException(java.lang.String,\ java.lang.Throwable)
+numComments=2

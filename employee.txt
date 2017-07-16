@@ -1,0 +1,175 @@
+
+Employee ID: 1
+Last Name: Soriano
+First Name: Jose
+Department: Cyber
+Email: dknyjs@gmail.ca
+Phone Number: 12042556511
+
+Employee ID: 2
+Last Name: Redfield
+First Name: Chris
+Department: STARS
+Email: credfield@rcity.ca
+Phone Number: 12042556511
+
+Employee ID: 3
+Last Name: Valentine
+First Name: Jill
+Department: STARS
+Email: jvalentine@rcity.ca
+Phone Number: 18003669977
+
+Employee ID: 11
+Last Name: Lee
+First Name: Bruce
+Department: Kunfu
+Email: blee@gmail.ca
+Phone Number: 18007779999
+
+Employee ID: 12
+Last Name: Van de Graff
+First Name: Kimberly
+Department: Communications
+Email: kva@skyview.ca
+Phone Number: 19006667788
+
+Employee ID: 13
+Last Name: Vorheves
+First Name: Jason
+Department: Camp
+Email: Jvor@camp.jp
+Phone Number: 18009996666
+
+Employee ID: 14
+Last Name: Baggio
+First Name: Roberto
+Department: Futbol
+Email: rbag@italia.it
+Phone Number: 18003331990
+
+Employee ID: 15
+Last Name: Fics
+First Name: Ryan
+Department: Ethics
+Email: leo83@hotmail.com
+Phone Number: 18884446622
+
+Employee ID: 16
+Last Name: Cain
+First Name: David
+Department: Pop Culture
+Email: dcain@hotmail.com
+Phone Number: 18005554411
+
+Employee ID: 17
+Last Name: Asham
+First Name: Olivia
+Department: Banking
+Email: oash@gmail.ca
+Phone Number: 19005554555
+
+Employee ID: 18
+Last Name: Siete
+First Name: Salvador
+Department: Philosophy
+Email: ss7@gmail.ca
+Phone Number: 18007772533
+
+Employee ID: 19
+Last Name: Rose
+First Name: Ruby
+Department: Theater
+Email: redrose@hotmail.ca
+Phone Number: 18004446633
+
+Employee ID: 20
+Last Name: Issacs
+First Name: Alexander
+Department: Emergecy
+Email: alexiss@rcity.ca
+Phone Number: 18002223366
+
+Employee ID: 21
+Last Name: Raviv
+First Name: Lee
+Department: Chemestry
+Email: leerav@rcity.ca
+Phone Number: 12042663222
+
+Employee ID: 22
+Last Name: Singleton
+First Name: Vian
+Department: Science
+Email: viasing@rcity.ca
+Phone Number: 12042559955
+
+Employee ID: 23
+Last Name: Marks
+First Name: Alice
+Department: Robotics
+Email: alimar@rcity.ca
+Phone Number: 12048884455
+
+Employee ID: 24
+Last Name: Jackson
+First Name: Dale
+Department: Soldier
+Email: daljac@rcity.ca
+Phone Number: 12042553366
+
+Employee ID: 25
+Last Name: Lee
+First Name: Jun-ki
+Department: Martial Arts
+Email: junlee@rcity.ca
+Phone Number: 12042536622
+
+Employee ID: 4
+Last Name: Strife
+First Name: Cloud
+Department: Soldier
+Email: cstrife@midgar.ca
+Phone Number: 1888995555
+
+Employee ID: 5
+Last Name: Bill
+First Name: Kill
+Department: Movie
+Email: bkiller@movies.ca
+Phone Number: 12047779999
+
+Employee ID: 6
+Last Name: Cornejo
+First Name: Valentina
+Department: Health
+Email: ehealth@mb.ca
+Phone Number: 12047779995
+
+Employee ID: 7
+Last Name: Miller
+First Name: Joe
+Department: Soldier
+Email: jmiller@mgear.ca
+Phone Number: 188822552
+
+Employee ID: 8
+Last Name: Gaisburg
+First Name: Meryl
+Department: Rebel
+Email: mgains@mgear.ca
+Phone Number: 19002235689
+
+Employee ID: 9
+Last Name: Olimar
+First Name: Tiger
+Department: Fighter
+Email: tolimar@madeup.ca
+Phone Number: 19002235689
+
+Employee ID: 10
+Last Name: Bison
+First Name: M
+Department: Boss
+Email: mbison@sfighter.ca
+Phone Number: 19002235689
